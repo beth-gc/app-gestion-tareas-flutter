@@ -1,16 +1,26 @@
-# app_tareas
+# Task Manager App
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter orientada a la gestión de tareas pendientes. El proyecto fue desarrollado con el objetivo de demostrar la capacidad de construir una aplicación móvil funcional y gestionar la navegación entre múltiples pantallas con paso de datos dinámico.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Crear, editar y eliminar tareas
+- Marcar tareas como completadas
+- Gestión de fechas límite
+- Cálculo dinámico del tiempo restante
+- Indicadores visuales de urgencia por colores
+- Navegación entre pantallas con envío y recepción de datos
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autores
+
+- Samuel Flores – Diseño UI
+- Elizabeth Gómez – Lógica, funcionalidad e implementación
+
+## Estado del proyecto
+
+Proyecto académico incluido como parte de portafolio profesional.
