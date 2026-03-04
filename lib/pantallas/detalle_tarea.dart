@@ -76,7 +76,7 @@ class PantallaDetalleTarea extends StatelessWidget {
           child: formato_textos(prioridad),
         ),
 
-        Spacer(),
+        SizedBox(height: 80),
 
         // Columna de botones
         Center(
