@@ -11,6 +11,17 @@ Aplicación móvil desarrollada en Flutter orientada a la gestión de tareas pen
 - Indicadores visuales de urgencia por colores
 - Navegación entre pantallas con envío y recepción de datos
 
+## Capturas de Pantalla de la App
+
+Home:
+![Home](screenshots/home_tareas.jpeg)
+
+Detalle de tarea:
+![Detalle](screenshots/detalle_tarea.jpeg)
+
+Agregar tarea:
+![Agregar](screenshots/agregar_tarea.jpeg)
+
 ## Tecnologías utilizadas
 
 - Flutter
