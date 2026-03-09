@@ -14,12 +14,15 @@ Aplicación móvil desarrollada en Flutter orientada a la gestión de tareas pen
 ## Capturas de Pantalla de la App
 
 Home:
+
 ![Home](screenshots/home_tareas.jpeg)
 
 Detalle de tarea:
+
 ![Detalle](screenshots/detalle_tarea.jpeg)
 
 Agregar tarea:
+
 ![Agregar](screenshots/agregar_tarea.jpeg)
 
 ## Tecnologías utilizadas
